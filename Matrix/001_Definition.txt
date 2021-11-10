@@ -1,0 +1,4 @@
+42332    !Number of rows       
+42332    !Number of columns    
+545828   !Number of elements   
+38       !Sounding size         
