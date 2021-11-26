@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a sparse iterative linear solver developed at the HydroGeophysics Group, Aarhus University, Denmark.
+This is a sparse iterative linear solver I developed while doing my Phd at the HydroGeophysics Group, Aarhus University, Denmark.
 The code is developed in Fortran/OpenMP, and is designed with focus on speed especially in parallel.
 The code uses a block-splitting of the linear system without any overlap. 
 It is intended to be used on matrices with have already been reordered using a reverse Cuthill-Mckee reordering.
