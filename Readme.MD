@@ -32,6 +32,6 @@ Settings.ini             !Settings for the parallelization framework and the ite
 
 Open either the parallelization solution file or project file, or build your own project by using Example.f90 as the main program and the rest as dependencies.
 
-Once the project have been built, place all files in the same folder and run it like this:
+Once the project has been built, place all files in the same folder and run it like this:
 
--> solver.exe settings.ini 001 outputfilename        (Where 001 is the name of the sparseMatrix in the matrix folder)
+-> solver.exe settings.ini 001 outputfilename        (where 001 is the name of the sparseMatrix in the matrix folder)
